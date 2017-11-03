@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/watilde/octillery#readme",
   "devDependencies": {
-    "electron": "^1.6.10",
-    "electron-packager": "^8.7.0",
+    "electron": "^1.8.1",
+    "electron-packager": "^9.1.0",
     "standard": "^10.0.2"
   }
 }
