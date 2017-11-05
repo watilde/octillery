@@ -9,7 +9,7 @@
     "babel": "browserify lib/index.jsx -o app/bundle.js -t [ babelify --presets [ es2015 react ] ]",
     "start": "electron .",
     "build": "electron-packager . --platform=darwin --overwrite --arch=x64 --out=dist"
-  }
+  },
   "dependencies": {
     "flux": "^3.1.2",
     "immutable": "^3.8.1",
